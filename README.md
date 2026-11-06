@@ -16,7 +16,7 @@ The dashboard contains five analytical pages:
 4. Qatar 2022 Top Four Analysis
 5. Nigeria at the World Cup
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Explore historical FIFA World Cup trends and tournament expansion.
 - Examine whether hosting the World Cup is associated with tournament success.
@@ -25,7 +25,7 @@ The dashboard contains five analytical pages:
 - Investigate Nigeria's World Cup performance, goals, results and tournament progression.
 - Demonstrate the application of DAX, data modelling and interactive visualisations in sports analytics.
 
-## 🛠️ Tools and Skills
+## Tools and Skills
 
 **Microsoft Power BI**
 
@@ -39,9 +39,8 @@ The dashboard contains five analytical pages:
 
 ## 📊 Dashboard Overview
 
-![FIFA World Cup Dashboard](Dashboard_Overview.png)
 
-## 📈 Key Performance Indicators
+## Key Performance Indicators
 
 ### Historical World Cup Statistics
 
@@ -85,7 +84,7 @@ The dashboard contains five analytical pages:
 
 ---
 
-## 🔍 Dashboard Analysis and Key Findings
+## Dashboard Analysis and Key Findings
 
 ### Page 1: Tournament Overview
 
@@ -242,7 +241,7 @@ Its 1994 and 1998 performances provide useful historical reference points for in
 
 ---
 
-## 🎛️ Interactive Dashboard Features
+## Interactive Dashboard Features
 
 The dashboard includes several features that allow users to explore the World Cup data dynamically.
 
@@ -262,7 +261,7 @@ For example, selecting Nigeria's 1998 win-rate bar filters the corresponding mat
 
 These interactions allow users to move from broad historical trends to specific teams, years and performances.
 
-## 🧮 DAX and Data Modelling
+## DAX and Data Modelling
 
 DAX played an important role in transforming raw World Cup records into meaningful performance indicators.
 
@@ -295,11 +294,11 @@ DAX played an important role in transforming raw World Cup records into meaningf
 
 These calculations helped classify individual matches, measure national team performance, compare tournament outcomes and develop dynamic KPIs.
 
-## 💡 Recommendations and Opportunities for Further Analysis
+## Recommendations and Opportunities for Further Analysis
 
-**1. Improve Match-Level Data Coverage**
+**1. Improve Match Level Data Coverage**
 
-Future analysis should include richer match statistics such as possession, shots, expected goals, bookings and player-level performance.
+Future analysis should include richer match statistics such as possession, shots, expected goals, bookings and player level performance.
 
 **2. Combine FIFA Rankings with Tournament Outcomes**
 
@@ -325,7 +324,7 @@ Standardising country and team names across datasets would make it easier to com
 
 Future versions could incorporate player-level statistics and additional World Cup tournaments, including the 2026 competition once complete and validated data becomes available.
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 Through this project, I demonstrated my ability to:
 
@@ -339,7 +338,7 @@ Through this project, I demonstrated my ability to:
 - Translate analysis into practical research questions and recommendations.
 
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates how Power BI can be used to explore football history and identify meaningful performance patterns.
 
@@ -349,10 +348,10 @@ From France's unbeaten 2018 campaign to Morocco's remarkable performance in Qata
 
 Beyond the visualisations, the project strengthened my practical experience with DAX, data modelling, analytical decision-making, dashboard design and sports data storytelling.
 
-## 👤 Author
+## Author
 
 **Olanipekun Joshua Tijesuni**
 
 Data Analyst | Researcher | Data Analyst
 
-Passionate about applying data analytics to football, agriculture and real-world decision-making.
+Passionate about applying data analytics to football, agriculture and real world decision making.
